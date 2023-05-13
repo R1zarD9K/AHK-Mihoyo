@@ -24,7 +24,7 @@ toggle = 0
 ~Capslock::
     Toggle := !Toggle
      While Toggle{
-	MouseClick, left, 1300, 680
+	MouseClick, left, 1310, 730
 	sleep 100
     }
 return
